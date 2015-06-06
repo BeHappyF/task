@@ -1,0 +1,7 @@
+h1 {text-indent: 1em;}
+ul {list-style-type: none;padding: 0px 40px;}
+li {display: inline-block;padding: 0px 20px;}
+a {text-decoration: none;color: #888;}
+h2 {padding: 0px 40px;}
+p {font: 16px/2 "微软雅黑",sans-serif; border:1px solid #fff; background-color: #eee;text-indent: 10em;border-radius: 7px;}
+img {display: block;width: 400px; height: 500px;margin: 0 auto;}
